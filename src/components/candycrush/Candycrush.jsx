@@ -1,13 +1,13 @@
 import React from 'react'
 import { useEffect, useState } from 'react'
 
-import blueCandy from '../../utils//images/blue-candy.png'
-import greenCandy from '../../utils//images/green-candy.png'
-import orangeCandy from '../../utils//images/orange-candy.png'
-import purpleCandy from '../../utils//images/purple-candy.png'
-import redCandy from '../../utils//images/red-candy.png'
-import yellowCandy from '../../utils//images/yellow-candy.png'
-import blank from '../../utils//images/blank.png'
+import blueCandy from '../../utils/images/blue-candy.png'
+import greenCandy from '../../utils/images/green-candy.png'
+import orangeCandy from '../../utils/images/orange-candy.png'
+import purpleCandy from '../../utils/images/purple-candy.png'
+import redCandy from '../../utils/images/red-candy.png'
+import yellowCandy from '../../utils/images/yellow-candy.png'
+import blank from '../../utils/images/blank.png'
 
 
 const width = 8
